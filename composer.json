@@ -1,0 +1,21 @@
+{
+    "name": "joppa/orm.cycle2",
+    "description": "Cycle2 integration with the ORM module of the Joppa CMS.",
+    "version": "0.1.0",
+    "type": "zibo-module",
+    "authors": [
+        {
+            "name": "Joris Vandeweerd",
+            "email": "joris@statik.be"
+        },
+        {
+            "name": "Bart Verbruggen",
+            "email": "bart@statik.be"
+        }
+    ],
+    "require": {
+        "joppa/orm": "*",
+        "zibo/composer.installer": "*",
+        "zibo/cycle2": "*"
+    }
+}

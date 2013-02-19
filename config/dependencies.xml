@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container>
+    <dependency interface="joppa\orm\view\ContentOverviewView" class="joppa\orm\view\predefined\ContentCycle2View" id="cycle2" />
+</container>
